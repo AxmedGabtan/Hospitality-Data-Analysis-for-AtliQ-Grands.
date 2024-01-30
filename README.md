@@ -4,7 +4,7 @@
 -	Background of AtliQ Grands: A distinguished brand with two decades of industry presence, currently navigatin challenges posed by competition and managerial decisions.
 -	Business and Data Intelligence Initiative: To counteract diminishing market share and revenue, the managing director seeks to integrate Business and Data Intelligence strategies.
 
-<img width="632" alt="DashBoard " src="https://github.com/AxmedGabtan/Hospitality-Data-Analysis-for-AtliQ-Grands./assets/121066015/797580bb-c260-438b-81df-0e7a2f2e3e4a">
+<img width="269" alt="111" src="https://github.com/AxmedGabtan/Hospitality-Data-Analysis-for-AtliQ-Grands./assets/121066015/366f94b5-b05a-42d5-9deb-b3f351b148bb">
 
 ### Data Source 
 The dataset was downloaded from Codebasics challenge #1 as CSV files, containing detailed information about Atliq Grands' hospitality in India
